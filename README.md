@@ -35,5 +35,5 @@ Funcionalidades principales implementadas: conversión básica, entrada manual d
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Leo-mael/conversor-monedas-java
    cd repositorio-conversor
